@@ -133,9 +133,6 @@ class TheThirdPartyCodeView extends TextFileView {
     } else {
       this.renderMarkdownFormat();
     }
-    // 调试代码
-    global.exampleview = this;
-    global.MarkdownRenderer = MarkdownRenderer;
   }
 
   /** 文本格式 */
