@@ -8,4 +8,4 @@ readonly view for the third party code, e.g. java/py/txt...
 
 ##
 
-![desktop_example](_files/image.png)
+![desktop_example](_files/desktop_example.png)
